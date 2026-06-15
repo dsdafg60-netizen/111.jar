@@ -1,0 +1,8 @@
+{
+  "entity.mod111.bunnyman": "Кроличий монстр",
+  "effect.mod111.fear": "Боязнь",
+  "effect.mod111.hallucination": "Галлюцинация",
+  "sound.mod111.bunnyman_scream": "Крик Кроличьего монстра",
+  "sound.mod111.hallucination_sound": "Звук галлюцинации",
+  "sound.mod111.darkness_ambient": "Звуки темноты"
+}
