@@ -1,0 +1,35 @@
+{
+  "bunnyman_scream": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "mod111:bunnyman_scream",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1
+      }
+    ]
+  },
+  "hallucination_sound": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "mod111:hallucination_sound",
+        "volume": 0.8,
+        "pitch": 1.0,
+        "weight": 1
+      }
+    ]
+  },
+  "darkness_ambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "mod111:darkness_ambient",
+        "volume": 0.5,
+        "pitch": 1.0,
+        "weight": 1
+      }
+    ]
+  }
+}
