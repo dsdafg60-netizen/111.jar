@@ -1,0 +1,28 @@
+modLoader="javafxmod"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="mod111"
+version="1.0.0"
+displayName="111.jar"
+logoFile="logo.png"
+credits="Created by dsdafg60"
+authors="dsdafg60"
+description='''
+A horror mod for Minecraft 1.20.1 featuring the terrifying Bunnyman mob and a fear/stress system.
+'''
+
+[[dependencies.mod111]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.mod111]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
